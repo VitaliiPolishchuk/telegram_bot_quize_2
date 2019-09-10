@@ -1,0 +1,6 @@
+asyncio
+xlsxwriter
+aiogram
+emoji
+pyTelegramBotAPI
+future
